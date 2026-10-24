@@ -2,14 +2,11 @@
 EXPT NO: 3				STAIR CASE WIRING                     
 
  
-AIM
+AIM:
  To control the status of the given lamp by using two–way switches. 
 APPARATUS REQUIRED:
 
-S. No.
-Name of the apparatus	
-Range / Type	
-Quantity
+S. No.  Name of the apparatus	 Range / Type	Quantity
 
 1	Incandescent Lamp	60W	1 No.
 2	Lamp Holder	Pendent Type	1 No.
@@ -40,11 +37,20 @@ switch2.
 
 
 Direct connection: CIRCUIT DIAGRAM: 
+
+<img width="849" height="507" alt="Screenshot 2026-10-24 230026" src="https://github.com/user-attachments/assets/8b8d398b-b675-432a-b859-df422bb01f9a" />
+<img width="744" height="458" alt="Screenshot 2026-10-24 230123" src="https://github.com/user-attachments/assets/1aab4c57-cb9b-414f-86d8-b0b08c6aefe2" />
+
 Tabulation:1
+<img width="1122" height="1600" alt="WhatsApp Image 2026-10-25 at 12 26 17 AM" src="https://github.com/user-attachments/assets/fb9c3339-c90b-416e-a36b-dcf15872b688" />
 	
 Cross connection: CIRCUIT DIAGRAM:
 
+<img width="687" height="453" alt="Screenshot 2026-10-24 230311" src="https://github.com/user-attachments/assets/6a5f2db9-8021-4f71-a2f5-8fe55ccd5809" />
+<img width="660" height="504" alt="Screenshot 2026-10-24 230329" src="https://github.com/user-attachments/assets/ba2f7cb3-642d-4331-946c-498eb47324a1" />
+
 Tabulation:2
+<img width="1122" height="1600" alt="WhatsApp Image 2026-10-25 at 12 26 17 AM" src="https://github.com/user-attachments/assets/d7e21880-24b3-4550-930c-cb777d05b034" />
 
 RESULT:
 Thus the staircase wiring is connected and tested.
